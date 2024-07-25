@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Murooj
 - I have practiced several programming languages such as Java, Python, C, HTML, and COOL. I've also experimented with various fields including game development, animation, web design, and database management.
 
-- I am currently working in game development and animation.
+- I work as a Full-Stack Developer.
 
 - I love the design aspect and the practice of it.
 
